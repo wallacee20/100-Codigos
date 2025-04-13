@@ -28,19 +28,19 @@ Leitura e escrita de arquivos (CSV, JSON, Excel) Manipulação de listas e dicio
 
 2. SQL - Consultas e Otimização
 
-✅ SELECT, INSERT, UPDATE, DELETE✅ Joins (INNER, LEFT, RIGHT, FULL)✅ Funções de agregação (SUM, AVG, COUNT)✅ Criação e manutenção de tabelas✅ Indexação e boas práticas para performance
+SELECT, INSERT, UPDATE, DELETE Joins (INNER, LEFT, RIGHT, FULL) Funções de agregação (SUM, AVG, COUNT) Criação e manutenção de tabelas Indexação e boas práticas para performance
 
-📂 3. PySpark - Processamento de Dados em Escala
+3. PySpark - Processamento de Dados em Escala
 
-✅ Criação de DataFrames e manipulação✅ Leitura de arquivos grandes (Parquet, ORC, Avro)✅ Agregações e joins eficientes✅ Uso de UDFs para transformações customizadas✅ Otimização de jobs no Spark
+Criação de DataFrames e manipulação Leitura de arquivos grandes (Parquet, ORC, Avro) Agregações e joins eficientes Uso de UDFs para transformações customizadas Otimização de jobs no Spark
 
-📂 4. Pandas - Análise e Manipulação de Dados
+4. Pandas - Análise e Manipulação de Dados
 
-✅ Filtragem e seleção de dados✅ Agrupamentos e pivot tables✅ Merge e joins entre DataFrames✅ Limpeza e tratamento de dados ausentes✅ Gráficos e visualização com Matplotlib e Seaborn
+Filtragem e seleção de dados Agrupamentos e pivot tables Merge e joins entre DataFrames Limpeza e tratamento de dados ausentes Gráficos e visualização com Matplotlib e Seaborn
 
-📂 5. MongoDB - Banco de Dados NoSQL
+5. MongoDB - Banco de Dados NoSQL
 
-✅ Inserção e consulta de documentos✅ Filtragem e projeção de dados✅ Indexação para otimizar buscas✅ Agregação e pipeline de transformação✅ Conexão do MongoDB com Python
+Inserção e consulta de documentos Filtragem e projeção de dados Indexação para otimizar buscas Agregação e pipeline de transformação Conexão do MongoDB com Python
 
 Como Usar Este Repositório
 
