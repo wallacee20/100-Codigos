@@ -1,4 +1,4 @@
-# Compilado de 100 Códigos Essenciais para Analistas de Dados
+# Compilado de 100 Códigos Essenciais para Engenheiros/Analistas de Dados
 
 Sobre este Repositório
 
