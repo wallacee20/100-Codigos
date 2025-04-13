@@ -24,7 +24,7 @@ Os códigos estão organizados por categoria para facilitar a navegação:
 
 1. Python para Dados
 
-Leitura e escrita de arquivos (CSV, JSON, Excel)✅ Manipulação de listas e dicionários✅ Expressões regulares✅ Web scraping com BeautifulSoup✅ APIs e consumo de dados com requests
+Leitura e escrita de arquivos (CSV, JSON, Excel) Manipulação de listas e dicionários Expressões regulares Web scraping com BeautifulSoup APIs e consumo de dados com requests
 
 2. SQL - Consultas e Otimização
 
