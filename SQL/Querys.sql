@@ -15,3 +15,6 @@ SELECT * FROM cliente WHERE nome = 'Lucas' OR sobrenome = 'Silva';
 -- 5 - seleciona todos os dados da tabela cliente onde o nome é diferente de 'Lucas'
 SELECT * FROM cliente WHERE nome <> 'Lucas';
 
+-- 6 - seleciona todos os dados da tabela cliente onde o nome começa com 'L'
+SELECT * FROM cliente WHERE nome LIKE 'L%';
+
